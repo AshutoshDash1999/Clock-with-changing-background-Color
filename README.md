@@ -2,7 +2,7 @@
 A simple interface showing clock and date with changing background color using Javascript.
 
 ### Deployement
-The site is deployed [here]().
+The site is deployed [here](https://ashutoshdash1999.github.io/Clock-with-changing-background-Color/).
 
 ### Screencast
 
