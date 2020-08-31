@@ -1,0 +1,31 @@
+.wrapper{
+    border: 15px solid 	#74ee15;
+    position: relative;
+    top: 90px;
+    margin: 0 50px;
+    border-radius: 25px;
+}
+
+
+#clock{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 200px;
+    text-align: center;
+    height: 100%;
+    background-color: #fddb3a;
+    color: #2d2e30;
+    border: 2;
+    border-radius: 11px 11px 0px 0px;
+}
+
+
+#date{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 100px;
+    text-align: center;
+    background-color: #eb4918;
+    height: 40%;   
+    color: #2c044d;
+    border-radius: 0px 0px 11px 11px;
+}
+
